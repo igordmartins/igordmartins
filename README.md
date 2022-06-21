@@ -4,7 +4,7 @@
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Full-Stack Web Developer gratuated at Le Wagon Bootcamp São Paulo (Batch-898).
-- 💡 &nbsp; I view programming as more of an art-form than a science; clean, concise and beautiful code is the valued approach, always with scalability and testability in mind.
+- 💡 &nbsp; I view programming as more of an art-form than a science; clean, concise and beautiful code is the valued approach.
 <hr>
 
 ### 🛠 &nbsp;Tech Stack
